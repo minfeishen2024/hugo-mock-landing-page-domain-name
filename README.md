@@ -21,3 +21,6 @@ To get started with NutritionSnap, follow these steps:
 2. Open the project in your preferred code editor.
 3. Follow the installation instructions in the `INSTALL.md` file to set up the app.
 4. Start the development server and begin exploring the app's features.
+
+## Workflow
+This website is autodeployed using Github Actions Workflow under .github/workflows folder. Read github-actions-workflow-description.pdf for more details.
