@@ -1,7 +1,7 @@
 # A Mock Landing Page for InkSMITH
 
 ## Note for Custom Domain Access
-For the CSS style to display correctly, I had to manually type in `http://read.africa/'. 
+For the CSS style to display correctly, I had to manually type in `http://reads.africa/`, which is the address in the settings of my github pages. Simply navigating to reads.africa goes to the `https://reads.africa/` which has incorrect css. For some reason, my website does not start with https even when I followed the instruction. A picture of my working website with the domain name can be found in the repo.
 
 ## Overview
 
