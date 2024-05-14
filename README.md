@@ -1,5 +1,8 @@
 # A Mock Landing Page for InkSMITH
 
+## Note for Custom Domain Access
+For the CSS style to display correctly, I had to manually type in `http://read.africa/'. 
+
 ## Overview
 
 InkSMITH is a centralized creative hub with an built in AI writing assistant tailored specifically to web novel writers who need to produce creative, hugh-quality content in a continuous, serialized fashion, maintain reader engagement, and streamline the management and editing process.
